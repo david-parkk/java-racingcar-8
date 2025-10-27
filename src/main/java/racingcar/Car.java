@@ -1,7 +1,5 @@
 package racingcar;
 
-import net.bytebuddy.build.Plugin.Engine;
-
 public class Car implements Vehicle {
     private String name;
     private Engine engine;
